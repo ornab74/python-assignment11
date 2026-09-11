@@ -1,0 +1,13 @@
+Task 4 Reflection — Advanced Data Visualization
+
+1. Static and Interactive Visualizations
+
+Static charts are useful when I need to present information in a simple and consistent way, especially in reports or documents where the visualization does not need to change. Interactive visualizations give the viewer more freedom to explore the data. Features such as hovering, zooming, and filtering can reveal details that might not be obvious in a static chart. With Plotly, I can present the main pattern first while still giving someone the option to look more closely at individual values.
+
+2. How Dashboards Support Data Exploration
+
+Dashboards make data easier to explore because they bring several related visualizations together instead of showing each one separately. They can also include controls such as dropdown menus and sliders, which allow users to change what they are viewing without having to modify or rerun the code. I think this makes dashboards especially useful when comparing different groups, looking for trends, or seeing how values change over time.
+
+3. Using Plotly to Communicate Data Clearly
+
+One feature I find useful in Plotly is the ability to hover over a chart and see exact values without placing too much information directly on the visualization. Zooming and selecting items from the legend also allow viewers to focus on the parts of the data that matter most to them. At the same time, interactive features cannot replace good chart design. Clear titles, meaningful axis labels, and consistent colors are still important. I would use interactivity when it helps answer a specific question, but I would avoid adding unnecessary features that make the visualization harder to understand.
