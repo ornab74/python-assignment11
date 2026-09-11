@@ -1,11 +1,12 @@
 from pathlib import Path
 
+import plotly.data as pldata
 import plotly.express as px
 
 OUTPUT = Path(__file__).resolve().parent / "wind.html"
 
 # Load the sample wind data and inspect the first and last rows.
-df = px.data.wind()
+df = pldata.wind(return_type='pandas')
 print("First 10 rows:")
 print(df.head(10))
 print("\nLast 10 rows:")
