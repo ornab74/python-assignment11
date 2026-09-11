@@ -1,0 +1,7 @@
+Task 4 Reflection — Advanced Data Visualization
+
+Static and interactive visualizations can show the same data in different ways. A static chart is useful when I want one clear view. Interactive charts give the viewer more control. With Plotly, I can build charts that have hover over points, zoom in, and even build them so user's explore parts of the data with more comprehension.
+
+Dashboards make it easier to explore various types of data in one place. Using a dropdown or slider can change what I am displaying at without having to rerun the whole script. This makes comparisons faster. It is also helpful for when the data changes over time.
+
+Plotly can improve communication because it gives people more ways to inspect the data. Hover labels show exact values without over crowding the chart. Zooming and filtering make  the large datasets easier to understand. Chart always needs a clear title and good labels. Interactivity should try to help answer the user's question and not just make the chart look more advanced.
