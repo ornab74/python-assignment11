@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # set the database path.
-DB_PATH = Path(__file__).resolve().parent.parent / "db" / "lesson.db"
+DB_PATH = Path(__file__).resolve().parent / "db" / "lesson.db"
 
 # get the total price for each order.
 query = """
